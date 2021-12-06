@@ -1,0 +1,132 @@
+body{
+margin:0;
+text-align: center;
+font-family: 'Merriweather', serif;
+font-size: 20px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color: #66BFBF;
+font-weight: normal;
+padding-bottom: 10px;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E
+}
+a{
+  color: #11999E
+}
+p{
+  line-height: 2;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+
+
+}
+.solver{
+  width: 40%;
+  margin-right: 30px;
+  float: left;
+
+}
+.computer{
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+}
+hr{
+border: dotted #EAF6f6 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;
+}
+.btn{
+  margin: 10px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 20px;
+  padding: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: #FFF;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  width: 200px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  cursor: pointer;
+  display: inline-block;
+  border-radius: 25px;
+border-radius: 8;
+background-image: linear-gradient(to right, #7474BF 0%, #348AC7 51%, #7474BF 100%);
+}
+.btn:hover{
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  margin: 8px 10px 12px;
+}
+
+
+
+.top-container{
+  background-color:#E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+position:absolute;
+right: 300px;
+top: 50px;
+
+}
+.linkedin{
+  width: 50px;
+  height: 50px;
+}
+.Twitter{
+  width: 50px;
+  height: 50px;
+}
+.github{
+  width: 50px;
+  height: 50px;
+}
+.penguina{
+  width: 50px;
+  height: 50px;
+}
+.middle-container{
+  margin: 100px 0;
+
+
+}
+.bottom-container{
+  background-color:  #66BFBF;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
